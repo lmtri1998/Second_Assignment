@@ -1,0 +1,6 @@
+{
+  "rectangle_test.py::test_get_block": true,
+  "rectangle_test.py::test_rotate": true,
+  "simple_test.py::test_block": true,
+  "simple_test.py::test_get_selected_block2": true
+}
